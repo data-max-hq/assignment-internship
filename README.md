@@ -31,3 +31,4 @@ Given two arrays (`array_a` and `array_b`) with integer numbers, write a functio
 - Ordering of elements in the returned array is *not* important.
 - There are no duplicated elements in either arrays.
 - Aim for an optimal solution.
+- Please include in your solution a separate file explaining the complexity (Big-O notation) of your solution.
