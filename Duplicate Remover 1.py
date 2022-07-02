@@ -1,6 +1,6 @@
 array_a = [9, 8, 7, 6, 5, 4, 3, 2, 1]
 array_b = [100, 90, 80, 70, 60, 50]
-#Expected output should contain: [9, 8, 7, 6, 5, 4, 3, 2, 1, 100, 90, 80, 70, 60, 50]
+# Expected output should contain: [9, 8, 7, 6, 5, 4, 3, 2, 1, 100, 90, 80, 70, 60, 50]
 
 
 def duplicate_remover_1(list1, list2):
@@ -20,7 +20,7 @@ def duplicate_remover_1(list1, list2):
         if x not in output:
             output.append(x)
 
-    #prints "output" list
+    # prints "output" list
     print(output)
 
 
