@@ -13,7 +13,6 @@ def duplicate_remover_1(list1, list2):
     # this is an empty list which will be used to collect the unique values of the list3
     output = []
 
-    # this code represents the elegance and simplicity of python
     # it is self-explanatory but in other words it appends to the "output" list an item from the list3
     # with the condition that this item must not be present on "output", while iterating through every item of "list3"
     for x in list3:
